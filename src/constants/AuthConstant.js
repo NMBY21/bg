@@ -1,0 +1,5 @@
+export const AUTH_TOKEN = 'auth_token'
+export const ACCESS_TOKEN = 'accessToken'
+export const ID_TOKEN = 'idToken'
+export const REFRESH_TOKEN = 'refreshToken'
+export const USERINFO = 'userinfo'
